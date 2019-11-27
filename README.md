@@ -1,5 +1,4 @@
-### JavaWeb基于GoEasy的消息实时提示功能实现
-文 | 花翎幺  
+### JavaWeb基于GoEasy的消息实时提示功能实现 
 
 #### 进阶热身
 * GoEasy官网阅读文档，并完成注册 [GoEasy](http://www.goeasy.io/)
